@@ -1,0 +1,18 @@
+{
+  "name": "mediapp",
+  "version": "1.0.0",
+  "description": "Mini projeto da disciplina ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danilo César",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.17.2",
+    "router": "^2.2.0"
+  }
+}
